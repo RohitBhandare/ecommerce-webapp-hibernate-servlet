@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+.custom-bg
+{
+ 	  background: #004d40;  
+}
+
+.container1
+{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	padding: 30px;
+	text-align: center; 
+	background: #5e35b1;
+	background: #000; 
+	
+}
+
+.admin-cards .card
+{
+	width: 18rem;
+	padding:30px;
+	margin: 20px;
+}
+.admin-cards .card:hover
+{
+	background: red;
+	cursor: pointer;
+}
+.card-title
+{
+	font-weight: bolder;
+	 font-size: 5rem;
+}
+.add
+{
+	padding: 30px;
+	margin: 40px;
+}
+
+#addbtn button
+{
+	padding: 4000px;
+}
